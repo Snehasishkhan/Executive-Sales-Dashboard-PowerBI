@@ -24,6 +24,4 @@ An interactive sales dashboard developed using Microsoft Power BI to analyze rev
 - `Executive-Sales-Dashboard.pbix` – Power BI dashboard file.
 - `Sales-Raw-Data.xlsx` – Raw sales dataset.
 - `Dashboard.png` – Dashboard screenshot.
-- ## Dashboard Preview
-
-![Executive Sales Dashboard](Dashboard ..png)
+  
