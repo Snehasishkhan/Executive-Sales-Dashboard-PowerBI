@@ -16,11 +16,11 @@ An interactive sales dashboard developed using Microsoft Power BI to analyze rev
 - Total Quantity: 6,698
 - Total Orders: 2,707
 
-## Dashboard Preview
-
-![Executive Sales Dashboard](Dashboard.png)
-
 ## Project Files
 - `Executive-Sales-Dashboard.pbix` – Power BI dashboard file.
 - `Sales-Raw-Data.xlsx` – Raw sales dataset.
 - `Dashboard.png` – Dashboard screenshot.
+
+## Dashboard Preview
+
+![Executive Sales Dashboard](Dashboard.png)
